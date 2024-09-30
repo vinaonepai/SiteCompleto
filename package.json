@@ -1,0 +1,19 @@
+{
+  "name": "sitecompleto",
+  "version": "1.0.0",
+  "description": "parada do fausto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trabalho",
+    "do",
+    "fausto"
+  ],
+  "author": "Vini Cavilha",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
